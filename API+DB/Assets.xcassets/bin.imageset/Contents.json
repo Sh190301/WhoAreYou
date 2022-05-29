@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "edit-delete-icon-delete-icon-11553444925vxge0bju5o.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
